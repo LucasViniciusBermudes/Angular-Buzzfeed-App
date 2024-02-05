@@ -1,0 +1,67 @@
+{
+  "title":"Qual Super Herói Você Seria?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Se pudesse escolher um superpoder, qual habilidade você preferiria?",
+      "options":[
+        {"id": 1, "name":"Manipulação de Energia Quântica", "alias":"A"},
+        {"id": 2, "name":"Transmutação Molecular", "alias":"C"},
+        {"id": 3, "name":"Viagem no Tempo", "alias":"D"},
+        {"id": 4, "name":"Controle sobre as Leis da Gravidade", "alias":"B"},
+        {"id": 5, "name":"Desenvolvendo novas habilidades", "alias":"E"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Como você prefere passar seu tempo livre?",
+      "options":[
+        {"id": 1, "name":"Explorando novos lugares", "alias":"C"},
+        {"id": 2, "name":"Lendo um livro", "alias":"B"},
+        {"id": 3, "name":"Assistindo a um filme", "alias":"D"},
+        {"id": 4, "name":"Treinando fisicamente", "alias":"A"},
+        {"id": 5, "name":"Desenvolvendo novas habilidades", "alias":"E"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Em situações de conflito, qual seria sua abordagem?",
+      "options":[
+        {"id": 1, "name":"Uso criativo de habilidades", "alias":"C"},
+        {"id": 2, "name":"Avaliação minuciosa antes de agir", "alias":"D"},
+        {"id": 3, "name":"Análise e adaptação rápida", "alias":"A"},
+        {"id": 4, "name":"Ataque surpresa e movimentos rápidos", "alias":"B"},
+        {"id": 5, "name":"Manipulação tática do ambiente", "alias":"E"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Se fosse formar uma equipe, qual seria seu papel principal?",
+      "options":[
+        {"id": 1, "name":"Líder de Campo e Executor", "alias":"B"},
+        {"id": 2, "name":"Mestre em Controle Mental", "alias":"E"},
+        {"id": 3, "name":"Inovador Tecnológico", "alias":"C"},
+        {"id": 4, "name":"Detetive e Investigador", "alias":"D"},
+        {"id": 5, "name":"Estrategista e Analista", "alias":"A"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Como você lidaria com um dilema ético complicado?",
+      "options":[
+        {"id": 1, "name":"nvestiria tempo em uma investigação aprofundada", "alias":"D"},
+        {"id": 2, "name":"Buscaria uma solução lógica e pragmática", "alias":"A"},
+        {"id": 3, "name":"Manipularia a situação para alcançar um resultado desejado", "alias":"E"},
+        {"id": 4, "name":"Procuraria uma solução inovadora e criativa", "alias":"C"},
+        {"id": 5, "name":"Seguiria seu instinto e coração", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você seria como o Homem de Ferro, buscando soluções lógicas e pragmáticas.",
+    "B": "Você compartilha características com o Wolverine, seguindo seu instinto e coração.",
+    "C": "Sua personalidade assemelha-se ao Homem-Formiga, sempre inovador e criativo.",
+    "D": "Você seria como o Batman, dedicando tempo em investigações aprofundadas.",
+    "E": "Assim como a Jean Grey, você possui habilidades avançadas de manipulação mental."
+  }
+}
